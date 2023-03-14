@@ -10,19 +10,19 @@ namespace Задача_Переменные
     {
         static void Main(string[] args)
         {
-            byte AttackRange = 110;
-            short HeroLevel = 100;
-            int HeroExperience = 12350;
-            long Damage = 12000;
-            ulong Armor = 11;
+            byte attackRange = 110;
+            short heroLevel = 100;
+            int heroExperience = 12350;
+            long damage = 12000;
+            ulong armor = 11;
 
-            float Coin = 120.5f;
-            double Health = 1000;
+            float coins = 120.5f;
+            double health = 1000;
 
-            char Symbol = 'a';
+            char symbol = 'a';
 
-            string PlayerNickname = "chicken1337";
-            bool IsFrendly = true;
+            string playerNickname = "chicken1337";
+            bool isFrendly = true;
         }
     }
 }
